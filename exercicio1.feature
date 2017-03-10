@@ -10,26 +10,26 @@ Funcionalidade: Manter indicadores de risco
   Cenário para verificar a exibiço dos riscos quando o status não iniciado
   
   Dado Importar um arquivo com riscos com status não iniciado
-  Quando Validar informações do arquivo
+  Quando Validar dados preenchidos corretamente do arquivo
   Então Sistema exibe termômetro de riscos do projeto
 
   Cenário: Verificar exibição dos riscos com status verde
   Cenário para verificar a exibiço dos riscos quando o status verde
 
   Dado Importar um arquivo com riscos com status verde
-  Quando Validar informações do arquivo
+  Quando Validar dados preenchidos corretamente do arquivo
   Então Sistema exibe termômetro de riscos do projeto
 
   Cenário: Verificar exibição dos riscos com status vermelho
   Cenário para verificar a exibiço dos riscos quando o status vermelho
 
   Dado Importar um arquivo com riscos com status vermelho
-  Quando Validar informações do arquivo
+  Quando Validar dados preenchidos corretamente do arquivo
   Então Sistema exibe termômetro de riscos do projeto
 
   Cenário: Verificar exibição dos riscos com status amarelo
   Cenário para verificar a exibiço dos riscos quando o status amarelo
 
   Dado Importar um arquivo com riscos com status amarelo
-  Quando Validar informações do arquivo
+  Quando Validar dados preenchidos corretamente do arquivo
   Então Sistema exibe termômetro de riscos do projeto
